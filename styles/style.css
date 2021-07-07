@@ -1,0 +1,31 @@
+/* <!-- DEVELOPER: Rohit Shahi, IS117-040, Spring 2021 -> */
+
+* {
+    padding: 10;
+    margin: 20;
+    box-sizing: border-box;
+  }
+  header {
+    background-color: #1bc3de;
+    text-align: center;
+    padding: 5%;
+    color: #fff;
+  }
+  .jumbotron img {
+    width: 100%;
+  }
+  
+  .cards {
+    margin: 1% 0;
+  }
+  .card {
+    margin-bottom: 10px;
+  }
+  
+  /* footer */
+  footer.footer {
+    background-color: #17a2b8;
+    color: #ffff;
+    text-align: center;
+    padding: 1%;
+  }
